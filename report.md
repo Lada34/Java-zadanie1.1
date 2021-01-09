@@ -6,7 +6,7 @@
 
 В результате тестирования выявлены дефекты:
 
-* <https://github.com/Lada34/Java-zadanie1.1/issues/1#issue-781377578>
+* [Некорректная проверка ключей программой KeyValidator на Java 11 версии](https://github.com/Lada34/Java-zadanie1.1/issues/1#issue-781377578)
 
 # Описание процесса тестирования
 
@@ -17,7 +17,7 @@
 * <Баг-репорт>
 
 В качестве тестовых данных использовались данные: 
-* <https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md>:
+* [Руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 Ожидаемый результат:
 * <Валидные ключи со статусом ОК>
