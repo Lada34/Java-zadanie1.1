@@ -1,4 +1,4 @@
-## Test Case
+Test Case
 
 Title:
 * [Проверка работы приложения KeyValidator на Java 11](https://github.com/Lada34/Java-zadanie1.1/blob/master/KeyValidator.class)
